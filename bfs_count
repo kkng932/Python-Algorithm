@@ -23,5 +23,3 @@ def bfs(graph, v, visited):
                 visited[i] = True
                 count += 1
     return count
-
-# 이것이 취업을 위한 코딩 테스트다 with 파이썬을 참고하였습니다.
