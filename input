@@ -1,0 +1,2 @@
+# 문자열 한글자씩 끊어서 리스트로 바꾸기
+str_array = list(input())
