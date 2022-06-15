@@ -1,3 +1,9 @@
+<style>
+  mark {
+  background-color:yellow
+  }
+</style>
+ 
 # 정렬(Sorting)
 
 ## 선택 정렬
