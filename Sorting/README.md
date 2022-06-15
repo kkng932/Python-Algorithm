@@ -1,9 +1,4 @@
-<style>
-  mark {
-  background-color:yellow
-  }
-</style>
- 
+
 # 정렬(Sorting)
 
 ## 선택 정렬
@@ -17,7 +12,7 @@
 ## 삽입 정렬
 특정한 데이터를 삽입
 
-<mark>데이터가 거의 정렬되어 있을 때 효율적</mark>
+<mark style="background-color:yellow">데이터가 거의 정렬되어 있을 때 효율적</mark>
 
 첫 데이터는 정렬되어 있다고 판단, 두 번째 데이터부터 시작한다.
 1. 두 번째 데이터와 첫 번째 데이터를 비교해 어떤 위치로 들어갈 지 판단하고 삽입한다.
