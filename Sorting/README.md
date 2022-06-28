@@ -47,5 +47,5 @@
 정렬된 결과를 반환
 ### array.sort()
 내부 원소가 바로 정렬
-## sorted(array, reverse=True)
+### sorted(array, reverse=True)
 역순으로 정렬
