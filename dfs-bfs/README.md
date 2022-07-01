@@ -8,7 +8,7 @@ stack, 재귀함수를 사용한다.
    방문하지 않은 인접 노드가 없으면 스택에서 최상단 노드를 꺼냄
 3. 2번 불가능할 때까지 반복
 
-'''python
+```python
 def dfs(graph, v, visited):
     visited[v] = True
     print(v, end='')
@@ -31,4 +31,4 @@ if __name__ == "__main__":
     ]
     visited = [False] * 9
     dfs(graph, 1, visited)
-'''
+```
