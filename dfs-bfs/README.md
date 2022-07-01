@@ -45,6 +45,7 @@ queue, while문을 사용한다.
 
 최소 거리를 구할 때 효과적이다. 가까운 노드부터 차례대로 그래프의 모든 노드를 탐색하기 때문이다. 
 
+```python
 from collections import deque
 
 from collections import deque
@@ -56,7 +57,7 @@ graph = []
 for i in range(n):
     graph.append(list(map(int, input())))
 
-```python
+
 def bfs(x, y):
     queue = deque()
     queue.append(x, y)
