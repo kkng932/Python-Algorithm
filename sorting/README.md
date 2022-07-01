@@ -43,9 +43,15 @@
 시간복잡도: 데이터의 개수가 N, 데이터의 최댓값이 K일 때 최악의 경우에도 O(N+K)
 
 ## 정렬 라이브러리
-### sorted(array) 
+```python
+sorted(array) 
+```
 정렬된 결과를 반환
-### array.sort()
+```python
+array.sort()
+```
 내부 원소가 바로 정렬
-### sorted(array, reverse=True)
+```python
+sorted(array, reverse=True)
+```
 역순으로 정렬
