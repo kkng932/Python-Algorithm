@@ -8,6 +8,7 @@
  4. 시작점이 끝점보다 커지면 찾으려는 데이터가 없으므로 끝낸다. 
 
  코딩 테스트에서 단골로 나오는 문제이니 가급적 외우기
+ 
  시간복잡도: O(logN)
 ```python
 def binary_search(array, target, start, end):
